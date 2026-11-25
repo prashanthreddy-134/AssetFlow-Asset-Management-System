@@ -1,0 +1,1 @@
+// Frontend interactions are intentionally kept small; authenticated CRUD is available in Swagger UI (/docs).
